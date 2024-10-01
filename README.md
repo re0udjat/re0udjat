@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi folks! 
+<br />
+## I'm Cuong Nguyen 👋
 
 <!--
 **re0udjat/re0udjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
