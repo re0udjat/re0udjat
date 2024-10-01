@@ -1,5 +1,3 @@
 # Hey! Nice to see you 👋
 
-Welcome to my page!
-
-I'm Cuong Nguyen, a Site Reliability Engineer at <a href="https://vnpay.vn/"><img src="./assets/vnpay.svg" alt="VNPAY" height="15"/></a>
+Full time SRE at <a href="https://vnpay.vn/"><img src="./assets/vnpay.svg" alt="VNPAY" height="15"/></a> | Part time Software Engineer at :house_with_graden:
