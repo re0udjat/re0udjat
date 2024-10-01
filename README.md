@@ -1,3 +1,3 @@
-## Hi folks! Nice to see you guys 👋
+## Hi folks! Nice to see you 👋
 <br />
 
