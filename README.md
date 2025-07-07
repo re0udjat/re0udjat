@@ -1,3 +1,3 @@
 # Hey! Nice to see you 👋
 
-Full time SRE at <a href="https://vnpay.vn/"><img src="./assets/vnpay.svg" alt="VNPAY" height="15"/></a> | Part time Software Engineer at 🏡
+Full time SRE at | Part time Software Engineer at 🏡
